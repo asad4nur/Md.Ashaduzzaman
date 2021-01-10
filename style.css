@@ -105,9 +105,9 @@ img{
 .inquiry-title{
     width: 50%;
     color: rgb(255, 255, 255);
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
-    padding: 50px;
+    padding: 80px;
     margin: 5px;
 }
 .chat-button{
