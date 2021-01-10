@@ -1,0 +1,155 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    margin: 0%;
+}
+ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 0px;
+   background: rgb(0, 0, 0);
+   height: 50px;
+   line-height: 50px;
+   text-align: center;
+}
+li{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    padding: 0px 20px ;
+    color: white;
+    display: block;
+}
+a:hover, .active a{
+    background: red;
+    color: white;
+}
+
+h1{
+    font-size: 80px;
+}
+.Ashaduzzaman{
+    color: tomato;
+    font-size: large;
+    font-weight: bold;
+    font-size: 80px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+    padding: 0%;
+}
+.half-width img{
+    width: 100%;
+
+}
+.hireme-button{
+    background-image: linear-gradient(45deg, red, tomato);
+    width: 30%;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+.about-title{
+    text-align: left;
+    font-size: 60px;
+}
+.latest-working{
+    color: tomato;
+}
+.container{
+    width: 90%;
+    margin: 5%;
+    display: flex;
+    flex-basis: 33%;
+}
+img{
+    width: 100%;
+}
+.colum{
+    width: 33%;
+    padding: 2%;
+    box-shadow:0px 20px 20px rgba(128, 128, 128, 0.404);
+    margin: 1%;
+    border-radius: 10px;
+}
+.latest-h2{
+    text-align: left;
+    color: tomato;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+}
+.working-title{
+    width: 90%;
+    display: inline-block;
+    text-align: center;
+    font-weight: 900;
+    font-size: 40px;
+    margin: 5%;
+    color: black;
+}
+.inquiry{
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    border-radius: 20px;
+    width: 70%;
+    margin: 15%;
+
+}
+.inquiry-title{
+    width: 50%;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+    padding: 50px;
+    margin: 5px;
+}
+.chat-button{
+    text-align: center;
+    width: 50%;
+    padding: 140px;
+    
+}
+.button{
+    background-image: linear-gradient(45deg, red, tomato);
+    width: 100px;
+    padding: 15px;
+    border-radius: 5px;
+    display: inline;
+    float: right;
+    font-size: 20px;
+}
+.social{
+    width: 40%;
+    margin: 0% 30% 0% 30%;
+    text-align: center;
+}
+.icon{
+    text-align: center;
+    display: flex;
+    padding: 0px 0px 40px 0px;
+    width: 6%;
+    margin: 0% 0% 0% 31%;
+}
+.icons{
+    padding: 0px 20px;
+    width: 100%;
+    text-align: center;
+}
+.stay{
+    color: grey;
+    font-weight: bold;
+    font-size: 30px;
+}
+.email{
+    font-size: 50px;
+    color: indigo;
+    font-weight: bold;
+    text-align: center;
+}
